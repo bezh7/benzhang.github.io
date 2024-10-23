@@ -7,7 +7,7 @@ Explore some of my projects, interests, and experiences here!
 ### Project 1: SmartSeat
 ![App Screenshot](assets/app-screenshot.jpg)
 
-SmartSeat is my own personal MedTech startup
+SmartSeat is my own MedTech startup. As the CEO of 
 
 Check out the [SmartSeat Webstie](https://www.smartseattech.com)!
 
