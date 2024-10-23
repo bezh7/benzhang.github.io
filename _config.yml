@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A personal site using Jekyll and GitHub Pages
+baseurl: ""
+url: "https://bezh7.github.io"
+theme: minima
